@@ -1,0 +1,157 @@
+/* спецификация */
+
+bady {
+  font-family: 'PT Sans', sans-serif;
+}
+
+/* p, a, div, span {
+  line-height: 1.4em;
+} */
+
+/* первый экран */
+.header {
+  
+  
+  background: #fcdb00;
+  color: #010101;
+  padding-top: 58px;
+}
+
+ul, li {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+.menu {
+  /* margin: 0 57px; */
+  margin-top: 10px;
+}
+.menu__item {
+  margin: 0 57px;
+  
+}
+
+.menu__item a {
+  font-weight: 700;
+  font-size: 22px;
+  color: #010101;
+}
+h1, h2, h3, h4, h5 {
+  font-weight: 700;
+  color: #010101;
+}
+h3 {
+  font-weight: 400;
+  color: #010101;
+}
+
+h2 {
+  text-align: center;
+}
+
+.offer {
+
+}
+
+.offer__title {
+  padding-top: 150px;
+  font-size: 32px;
+  max-width: 400px;
+}
+.offer__intro {
+  line-height: 1.3em;
+ font-size: 20px;
+ padding-top: 20px;
+ max-width: 400px;
+}
+.offer__text {
+  padding-top: 30px;
+  font-size: 16px;
+  max-width: 400px;
+  /* width: 400px; */
+}
+.icons__item a {
+  color: black;
+  font-size: 42px;
+
+}
+.icons__item {
+  margin-right: 30px;
+}
+.ipad {
+  display: block;
+  margin: 60px auto 0;
+  padding-bottom: 105px;
+}
+
+.title .title__text {
+  max-width: 780px;
+  margin: 0 auto;
+  font-size: 20px;
+  /* margin-bottom: 70px; */
+}
+.title h2 {
+  padding-top: 100px;
+  font-size: 32px;
+}
+.future__icon {
+  font-size: 50px;
+  margin-right: 37px;
+}
+.future__text p {
+  color: #929292;
+}
+
+.future__text {
+  max-width: 220px;
+}
+
+.cont-futures {
+  margin-top: 85px;
+}
+.touch {
+  background: black;
+}
+.yellow {
+  color: #fcdb00;
+}
+
+.touch .title__text {
+  color: white;
+}
+.form__input {
+  background: white;
+  font-size: 16;
+  font-family: 'PT Sans' sans-serif;
+  border-radius: 5px;
+  width: 580px;
+  padding: 15px 5px;
+}
+.form__btn {
+  background: #fcdb00;
+  font-size: 16;
+  font-family: 'PT Sans' sans-serif;
+  border-radius: 5px;
+  width: 130px;
+  padding: 15px 0;
+  color: black;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-left: 20px;
+}
+.form {
+  margin-top: 40px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+.footer {
+  background: black;
+  padding-bottom: 20px;
+}
+.footer h5 {
+  color: #929292;
+}
+.footer .title-main {
+  color: #929292;
+}
