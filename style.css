@@ -4,9 +4,7 @@ bady {
   font-family: 'PT Sans', sans-serif;
 }
 
-/* p, a, div, span {
-  line-height: 1.4em;
-} */
+
 
 /* первый экран */
 .header {
@@ -50,9 +48,7 @@ h2 {
   text-align: center;
 }
 
-.offer {
 
-}
 
 .offer__title {
   padding-top: 150px;
