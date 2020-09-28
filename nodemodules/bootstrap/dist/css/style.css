@@ -34,7 +34,12 @@ ul, li {
   font-weight: 700;
   font-size: 22px;
   color: #010101;
+  
 }
+.menu__item a:hover {
+   text-decoration: none; 
+  }
+  
 h1, h2, h3, h4, h5 {
   font-weight: 700;
   color: #010101;
